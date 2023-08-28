@@ -123,4 +123,9 @@ ul {
   
 }
 
-@media 
+@media (max-width: 650px) {
+  #bot1, #bot2, #container {
+  width: 100%;
+  height: auto;
+  }
+ }
